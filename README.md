@@ -4,7 +4,7 @@ An exploratory data analysis project using Python to uncover trends and patterns
 
 ---
 
-## 📋 Project Overview
+##  Project Overview
 
 The Nobel Prize is one of the most prestigious international awards in the world. Since 1901, it has been awarded annually in six categories: **Chemistry, Literature, Physics, Physiology or Medicine, Economics, and Peace**.
 
